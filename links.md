@@ -3,7 +3,14 @@ permalink: LINKS/
 ---
 
 # LINKS
+### WEEK2
 
+* [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc) ---
+A beginner's guide to cybersecurity principles and techniques, covering fundamental concepts, prevalent risks, protective strategies, and essential terminology.
+<br>
+<hr>
+
+### WEEK 1
 * [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU&ab_channel=GaryExplains) ---
 This video provides an introduction to the fundamentals of using the Linux command line. It introduces fundamental commands like ls, cd, pwd, and more, offering clear explanations of their usage for beginners.
 <br>
