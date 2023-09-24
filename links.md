@@ -7,12 +7,15 @@ permalink: LINKS/
 ### WEEK3
 * [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0) ---
 "File System Concept" explains fundamental file system elements, such as files, intuitive filenames, and hierarchical directory structures, while also addressing implementation and optimizations for diverse storage media.
+<br>
+<hr>
 
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) ---
 The video explains file functioning, organization within computer systems, the role of file formats, data storage in blocks, metadata, and hierarchical file systems for efficient data management.
-  
-### WEEK2
+<br>
+<hr>
 
+### WEEK2
 * [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc) ---
 A beginner's guide to cybersecurity principles and techniques, covering fundamental concepts, prevalent risks, protective strategies, and essential terminology.
 <br>
