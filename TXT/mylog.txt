@@ -32,4 +32,11 @@ ZCZC W02 180 L09 Weekly Assignments
 ZCZC W02 120 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 60 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W02 30 L82 Reading Book (paper or online)
+ZCZC W03 60 L01 SCELE/Discord related
+ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 30 L03 GitHub related
+ZCZC W03 12 L05 Quiz related including studying
+ZCZC W03 120 L09 Weekly Assignments
+ZCZC W03 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 20 L82 Reading Book (paper or online)
 
