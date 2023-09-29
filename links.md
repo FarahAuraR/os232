@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK4
+* [Static vs. Shared Libraries](https://www.youtube.com/watch?v=-vp9cFQCQCo) ---
+The video explains the distinction between static and shared libraries in programming. Static libraries increase program size as the code is copied into the program, while shared libraries reduce program size by accessing code only when the program runs.
+<br>
+<hr>
+
+* [Introduction to Pointers | C Programming Tutorial](https://www.youtube.com/watch?v=2GDiXG5RfNE) ---
+The video provides an introduction to pointers in C programming, explaining how pointers store memory addresses and are used to manipulate data at those addresses. It demonstrates the concept of pass by reference using pointers and briefly mentions dynamic memory allocation as another use case for pointers in C.
+<br>
+<hr>
+
 ### WEEK3
 * [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0) ---
 "File System Concept" explains fundamental file system elements, such as files, intuitive filenames, and hierarchical directory structures, while also addressing implementation and optimizations for diverse storage media.
