@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK5
+* [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) ---
+The video discusses the concept of virtual memory and how it works in computer systems, explaining the role of the Memory Management Unit (MMU), paging, translation lookaside buffer (TLB), and page faults in handling virtual memory.
+<br>
+<hr>
+
+* [16.2.2 Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0) ---
+This video explains how a virtual memory system works with a Memory Management Unit (MMU) that translates CPU-generated virtual addresses into physical addresses using a page table. It introduces the concept of paging to efficiently manage memory, discusses demand paging, and demonstrates a virtual-to-physical address translation example.
+<br>
+<hr>
+
 ### WEEK4
 * [Static vs. Shared Libraries](https://www.youtube.com/watch?v=-vp9cFQCQCo) ---
 The video explains the distinction between static and shared libraries in programming. Static libraries increase program size as the code is copied into the program, while shared libraries reduce program size by accessing code only when the program runs.
