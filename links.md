@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK6
+* [FANG Interview Question | Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI) ---
+The video explains the distinction between processes and threads. It clarifies that processes have their own memory space, ensuring isolation, while threads are units of execution within a process, sharing the same memory space. The video also touches on context switching and how it affects CPU management.
+<br>
+<hr>
+
+* [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU) ---
+The video introduces the fundamental concepts of processes and threads in operating systems, explaining that a process is a running program, and a thread is an execution unit within a process. The video underscores the importance of distinguishing between processes and threads in operating systems.
+<br>
+<hr>
+
 ### WEEK5
 * [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) ---
 The video discusses the concept of virtual memory and how it works in computer systems, explaining the role of the Memory Management Unit (MMU), paging, translation lookaside buffer (TLB), and page faults in handling virtual memory.
