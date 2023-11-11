@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK7
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=SD5fJicR5cY-1jMR) ---
+This video explains the significance of synchronization in preventing race conditions and ensuring data consistency, particularly focusing on processes interacting with shared data in the operating system.
+<br>
+<hr>
+
+* [Deadlock in Operating System | GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=DzzLjVzRuOrE2raB) ---
+This video explains the concept of deadlock in operating systems using real-life examples such as job experiences and poorly managed schools. It also discusses four critical conditions leading to deadlock: mutual exclusion, hold and wait, no preemption, and circular wait.
+<br>
+<hr>
+
 ### WEEK6
 * [FANG Interview Question | Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI) ---
 The video explains the distinction between processes and threads. It clarifies that processes have their own memory space, ensuring isolation, while threads are units of execution within a process, sharing the same memory space. The video also touches on context switching and how it affects CPU management.
