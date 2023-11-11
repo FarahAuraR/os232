@@ -58,5 +58,13 @@ ZCZC W06 30 L03 GitHub related
 ZCZC W06 15 L05 Quiz related including studying
 ZCZC W06 150 L09 Weekly Assignments
 ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
-ZCZC W02 30 L80 Watching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W06 30 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W06 30 L82 Reading Book (paper or online)
+ZCZC W07 60 L01 SCELE/Discord related
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 20 L03 GitHub related
+ZCZC W07 7 L05 Quiz related including studying
+ZCZC W07 60 L09 Weekly Assignments
+ZCZC W07 40 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 40 L80 Watching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W07 20 L82 Reading Book (paper or online)
