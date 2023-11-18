@@ -4,6 +4,12 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK8
+* [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/uggsnHSELos?si=sM9UGjTBBAEjkduj) ---
+This video explains the significance of synchronization in preventing race conditions and ensuring data consistency, particularly focusing on processes interacting with shared data in the operating system.
+<br>
+<hr>
+
 ### WEEK7
 * [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=SD5fJicR5cY-1jMR) ---
 This video explains the significance of synchronization in preventing race conditions and ensuring data consistency, particularly focusing on processes interacting with shared data in the operating system.
