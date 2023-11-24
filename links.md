@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK9
+* [8. Chapter 6: Cross-Compiling Temporary Tools - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=D_N1kQPsQEk) ---
+This video series guides viewers through installing Linux From Scratch (LFS) 12.0 on real hardware, replacing Windows 10. The detailed walkthrough covers creating a bootable Linux USB, configuring the disk, and compiling sources, providing a beginner-friendly experience. The end result is a fully functional LFS system tailored to the viewer's hardware.
+<br>
+<hr>
+
+* [9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=y8uAMEK0FVc) ---
+This video emphasizes the use of a chroot environment for isolation during cross-compilation, providing protection against potential errors. The step-by-step guide covers the entire process from creating a bootable Linux USB to configuring disks, compiling sources, and successfully booting a fully functional LFS system.
+<br>
+<hr>
+
 ### WEEK8
 * [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/uggsnHSELos?si=sM9UGjTBBAEjkduj) ---
 This video explains the significance of synchronization in preventing race conditions and ensuring data consistency, particularly focusing on processes interacting with shared data in the operating system.
